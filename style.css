@@ -1,6 +1,11 @@
 * {
- text-align: center;
   font-family:"Times New Roman";
+ 
+ div {
+  padding: 100px;
+  border: 2px solid gray;
+  margin: 100px;
+  box-shadow:20px 20px 10px grey;
 }
 h1, h2,  {
   text-align: center;
