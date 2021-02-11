@@ -1,11 +1,12 @@
 * {
   font-family:"Times New Roman";
+}
  
  div {
   padding: 100px;
-  border: 2px solid black;
+  border: 1px solid black;
   margin: 100px;
-  background-color: #fcfcf4;
+  background-color: #fefef9;
   box-shadow:20px 20px 10px grey;
 }
 h1, h2,  {
